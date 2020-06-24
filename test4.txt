@@ -1,0 +1,1 @@
+When you want to merge your branch with master, master has to be your destination, which means, you need to be in master branch to run the below command
